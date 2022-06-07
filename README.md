@@ -14,6 +14,7 @@ The code has been tested running under Python 3.7.9. The required packages are a
 - scipy == 1.1.0
 - sklearn == 0.20.0
 - torch_scatter == 2.0.5
+- torch_sparse == 0.6.10
 - networkx == 2.5
 
 ## Usage
