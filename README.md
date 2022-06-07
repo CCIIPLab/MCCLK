@@ -1,6 +1,6 @@
 # Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System
 This is our Pytorch implementation for the paper:
-> Ding Zou, Wei Wei, Xian-Ling Mao, Ziyang Wang, Minghui Qiu, Feida Zhu, Xin Cao (2022). Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System
+> Ding Zou, Wei Wei, Xian-Ling Mao, Ziyang Wang, Minghui Qiu, Feida Zhu, Xin Cao (2022). Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System, [Paper in arXiv](https://arxiv.org/pdf/2204.08807.pdf). In SIGIR'22.
 
 
 ## Introduction
@@ -23,6 +23,25 @@ The hyper-parameter search range and optimal settings have been clearly stated i
 ```
 python main.py 
 ```
+
+##Citation
+If you want to use our codes and datasets in your research, please cite:
+```
+@inproceedings{mcclk2022,
+  author    = {Zou, Ding and
+               Mao, Xian-Ling and
+	       Wang, Ziyang and
+	       Qiu, Minghui and
+	       Zhu, Feida and
+	       Cao, Xin},
+  title     = {Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System},
+  booktitle = {Proceedings of the 45th International {ACM} {SIGIR} Conference on
+               Research and Development in Information Retrieval, {SIGIR} 2022, Madrid,
+               Spain, July 11-15, 2022.},
+  year      = {2022},
+}
+```
+
 
 
 ## Dataset
